@@ -1,0 +1,8 @@
+Cài nodejs version: 10.16.0
+Cài express version: 4.17.1
+Cài nodemond version: 2.0.4
+
+Các bước cài: 
+npm init/ npm i
+npm install express@4.17.1
+npm i nodemon@2.0.4 --save-dev
